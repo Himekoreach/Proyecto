@@ -1,0 +1,8 @@
+cualquiera.txt
+ifconfig.txt
+iwconfig.txt
+ls.txt
+main.py
+Random.py
+Recocido.py
+templates
